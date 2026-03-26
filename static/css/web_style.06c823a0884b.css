@@ -222,13 +222,13 @@ footer {
     padding: 0;
     position: relative;
     clear: both;
-    color: #a8b0b3;
+    color: #f8f9fa;
 }
 
 footer a {
     text-decoration: none;
     font-size: 13px;
-    color: #a8b0b3;
+    color: #f8f9fa;
 }
 
 footer li {
@@ -245,7 +245,7 @@ footer p {
     font-size: 13px;
     line-height: 26px;
     padding-bottom: 5px !important;
-    color: #a8b0b3;
+    color: #f8f9fa;
 }
 
 footer .social-icons li {
@@ -636,7 +636,7 @@ footer ul.social-icons {
 }
 
 .section-index-index .honor-card .card-body p {
-    color: #FC766A;
+    color: #1b9dff;
     font-weight: 700;
 }
 
@@ -710,8 +710,8 @@ footer ul.social-icons {
 }
 
 .section-index-index .swiper-slide img {
-    width: 360px;
-    aspect-ratio: 16/9;
+    width: 100%;
+    height: auto;
 }
 
 .section-index-index .index-about-backgroundimg {
